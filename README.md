@@ -2,7 +2,8 @@
 
 Detailed Overview of Findings
 
-This study presents a comprehensive framework for EEG-based emotion recognition by leveraging explainable deep learning techniques and cross-dataset validation. Using the DEAP dataset, which includes EEG recordings from 32 participants across 32 electrodes and 8 additional physiological signals (such as electrooculogram, electromyogram, and respiration), the project aimed to decode four core emotional dimensions: arousal (intensity of emotion or alertness), valence (pleasantness of the emotion), dominance (control or influence over the emotion), and liking (subjective preference or enjoyment).
+This study presents a comprehensive framework for EEG-based emotion recognition that reduces computational complexity, offering an efficient
+ Solution for real-time emotion recognition in neurotechnology applications by leveraging explainable deep learning techniques and cross-dataset validation. Using the DEAP dataset, which includes EEG recordings from 32 participants across 32 electrodes and 8 additional physiological signals (such as electrooculogram, electromyogram, and respiration), the project aimed to decode four core emotional dimensions: arousal (intensity of emotion or alertness), valence (pleasantness of the emotion), dominance (control or influence over the emotion), and liking (subjective preference or enjoyment).
 
 1. Frequency Domain Transformation for Structured Modeling
    
