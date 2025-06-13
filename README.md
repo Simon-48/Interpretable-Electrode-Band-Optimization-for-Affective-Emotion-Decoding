@@ -1,12 +1,15 @@
 #  Interpretable Electrode-Band Optimization for Affective Emotion Decoding.
 
 Detailed Overview of Findings
+
 This study presents a comprehensive framework for EEG-based emotion recognition by leveraging explainable deep learning techniques and cross-dataset validation. Using the DEAP dataset, which includes EEG recordings from 32 participants across 32 electrodes and 8 additional physiological signals (such as electrooculogram, electromyogram, and respiration), the project aimed to decode four core emotional dimensions: arousal (intensity of emotion or alertness), valence (pleasantness of the emotion), dominance (control or influence over the emotion), and liking (subjective preference or enjoyment).
 
 1. Frequency Domain Transformation for Structured Modeling
+   
 To prepare the raw EEG data for machine learning, the signals were first transformed from the time domain into the frequency domain using the Fast Fourier Transform (FFT). This enabled the extraction of five canonical frequency bands (Theta, Alpha, Low Beta, High Beta, and Delta) per electrode, resulting in a structured tabular format. This transformation not only enabled compatibility with traditional models but also preserved meaningful spectral patterns critical for emotion decoding.
 
 2. Modeling: Superiority of Residual CNN
+   
 Initial experiments with sequential models like RNNs and LSTMs revealed limitations in effectively capturing emotion-related temporal dynamics from raw EEG signals. To overcome this, a customized Residual Convolutional Neural Network (CNN) was developed. The residual blocks allowed deeper learning with reduced vanishing gradients, improving feature extraction and classification. This architecture achieved superior performance compared to 16 popular baseline models across all four emotion dimensions.
 
 Performance Highlights (DEAP dataset):
