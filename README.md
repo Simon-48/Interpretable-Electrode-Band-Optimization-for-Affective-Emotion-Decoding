@@ -26,13 +26,13 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
   
   3. Explainability with SHAP: Identifying Key Brain Regions and Bands
   
-    To ensure interpretability and reduce model complexity, SHapley Additive exPlanations (SHAP) was used to evaluate the contribution of each input feature (electrode-band pair). The SHAP analysis revealed that only a subset of electrodes—particularly in the fronto-central and parieto-occipital regions—contributed significantly to emotion recognition. Additionally, Delta and High Beta bands were found to play dominant roles in encoding emotional states.
+      To ensure interpretability and reduce model complexity, SHapley Additive exPlanations (SHAP) was used to evaluate the contribution of each input feature (electrode-band pair). The SHAP analysis revealed that only a subset of electrodes, particularly in the fronto-central and parieto-occipital regions, contributed significantly to emotion recognition. Additionally, Delta and High Beta bands were found to play dominant roles in encoding emotional states.
     
-    Optimized Set: 25 electrodes (61 features)
-    
-      Performance Retention: 98.78% of full model (200 features)
-      
-      Reduction in Parameters: ~24%
+          Optimized Set: 25 electrodes (61 features)
+        
+          Performance Retention: 98.78% of full model (200 features)
+          
+          Reduction in Parameters: ~24%
   
   4. Insights from Physiological Signals
   
