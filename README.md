@@ -60,7 +60,7 @@ Bands: 'C1B4', 'C1B5', 'C4B1', 'C4B2', 'C4B3', 'C4B4', 'C4B5', 'C6B5', 'C16B5', 
 
 ### Optimized Electrodes (DEAP → AMIGO Mapping)
 
-<img width="795" height="437" alt="image" src="https://github.com/user-attachments/assets/f1de5d7f-6a32-4124-8230-80230db195e5" />
+<img width="740" height="440" alt="image" src="https://github.com/user-attachments/assets/c85bfbbb-c548-4be7-9bcd-d9d85a8cf0fc" />
 
 Bands: 'C1B1', 'C1B2', 'C1B3', 'C1B4', 'C1B5', 'C2B5', 'C4B5', 'C5B1', 'C5B2', 'C5B3', 'C5B4', 'C5B5', 'C6B1', 'C6B2', 'C6B3', 'C6B4', 'C6B5', 'C9B4', 'C9B5', 'C11B2', 'C11B4', 'C11B5', 'C12B1', 'C12B2', 'C12B3', 'C12B4', 'C12B5', 'C13B1', 'C13B3', 'C15B1', 'C15B5', 'C16B5'
 
