@@ -48,6 +48,14 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
     
       These results validate the scalability and transferability of the SHAP-based selection strategy, enabling efficient emotion recognition with minimal signal overhead across multiple datasets and contexts.
 
+### Optimized Electrodes (DEAP → SEED-V Mapping)
+
+<img width="391" height="500" alt="image" src="https://github.com/user-attachments/assets/1d43ad50-5a1a-4efd-908b-fd15364e0dea" />
+
+### Optimized Electrodes (DEAP → AMIGO Mapping)
+
+<img width="795" height="437" alt="image" src="https://github.com/user-attachments/assets/f1de5d7f-6a32-4124-8230-80230db195e5" />
+
 ### Key Takeaways
 
   1. Fronto-central and parieto-occipital electrodes dominate emotional signal encoding, especially in Delta and High Beta bands.
