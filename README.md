@@ -56,13 +56,9 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="461" height="639" alt="image" src="https://github.com/user-attachments/assets/9cd82f97-6e10-4de0-80c4-71b540a6ff1c" />
 
-Bands: 'C1B4', 'C1B5', 'C4B1', 'C4B2', 'C4B3', 'C4B4', 'C4B5', 'C6B5', 'C16B5', 'C18B4', 'C18B5', 'C26B5', 'C24B1', 'C24B2', 'C24B3', 'C24B4', 'C24B5', 'C34B1', 'C42B1', 'C42B2', 'C42B3', 'C42B4', 'C42B5', 'C53B1', 'C46B5', 'C3B1', 'C3B3', 'C3B4', 'C3B5', 'C12B1', 'C12B2', 'C12B3', 'C12B4', 'C12B5', 'C14B1', 'C14B3', 'C22B2', 'C22B4', 'C22B5', 'C28B4', 'C28B5', 'C30B5', 'C40B1', 'C40B2', 'C40B5', 'C38B2', 'C50B4', 'C50B5', 'C55B1', 'C55B2', 'C55B3', 'C55B5'
-
 ### Optimized Electrodes (DEAP → AMIGO Mapping)
 
 <img width="837" height="573" alt="image" src="https://github.com/user-attachments/assets/02417a8c-0186-42d8-822a-ab354158f9da" />
-
-Bands: 'C1B1', 'C1B2', 'C1B3', 'C1B4', 'C1B5', 'C2B5', 'C4B5', 'C5B1', 'C5B2', 'C5B3', 'C5B4', 'C5B5', 'C6B1', 'C6B2', 'C6B3', 'C6B4', 'C6B5', 'C9B4', 'C9B5', 'C11B2', 'C11B4', 'C11B5', 'C12B1', 'C12B2', 'C12B3', 'C12B4', 'C12B5', 'C13B1', 'C13B3', 'C15B1', 'C15B5', 'C16B5'
 
 ### Key Takeaways
 
