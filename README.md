@@ -48,6 +48,10 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
     
       These results validate the scalability and transferability of the SHAP-based selection strategy, enabling efficient emotion recognition with minimal signal overhead across multiple datasets and contexts.
 
+### EEG Band Mapping
+
+<img width="661" height="261" alt="image" src="https://github.com/user-attachments/assets/e01ca3fe-3a6d-466b-82e0-74c027393ea2" />
+
 ### Optimized Electrodes (DEAP → SEED-V Mapping)
 
 <img width="391" height="500" alt="image" src="https://github.com/user-attachments/assets/1d43ad50-5a1a-4efd-908b-fd15364e0dea" />
