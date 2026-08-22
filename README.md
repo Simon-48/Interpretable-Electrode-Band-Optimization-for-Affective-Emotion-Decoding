@@ -50,7 +50,7 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 ### EEG Band Mapping
 
-<img width="661" height="261" alt="image" src="https://github.com/user-attachments/assets/e01ca3fe-3a6d-466b-82e0-74c027393ea2" />
+<img width="1724" height="912" alt="image" src="https://github.com/user-attachments/assets/b502f291-60d8-4d3a-b0bb-995cc5129790" />
 
 ### DEAP Optimized Electrodes
 
