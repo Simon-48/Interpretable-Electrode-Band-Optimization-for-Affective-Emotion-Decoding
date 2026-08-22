@@ -52,6 +52,10 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="661" height="261" alt="image" src="https://github.com/user-attachments/assets/e01ca3fe-3a6d-466b-82e0-74c027393ea2" />
 
+### DEAP Optimized Electrodes
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ff9ebfed-ddd5-473c-9465-168e657ffcee" />
+
 ### Optimized Electrodes (DEAP → SEED-V Mapping)
 
 <img width="461" height="639" alt="image" src="https://github.com/user-attachments/assets/9cd82f97-6e10-4de0-80c4-71b540a6ff1c" />
