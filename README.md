@@ -62,7 +62,7 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 ### Optimized Electrodes (DEAP → AMIGO Mapping)
 
-<img width="837" height="573" alt="image" src="https://github.com/user-attachments/assets/02417a8c-0186-42d8-822a-ab354158f9da" />
+<img width="1560" height="1008" alt="image" src="https://github.com/user-attachments/assets/04775ab5-c1aa-4611-978d-1a337fd35567" />
 
 ### Identified Important Brain Regions 
 
