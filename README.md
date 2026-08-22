@@ -64,6 +64,10 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="837" height="573" alt="image" src="https://github.com/user-attachments/assets/02417a8c-0186-42d8-822a-ab354158f9da" />
 
+### Identified Important Brain Regions 
+
+<img width="1271" height="1238" alt="image" src="https://github.com/user-attachments/assets/0dba1652-4878-461d-a91c-f160319f625c" />
+
 ### Key Takeaways
 
   1. Fronto-central and parieto-occipital electrodes dominate emotional signal encoding, especially in Delta and High Beta bands.
