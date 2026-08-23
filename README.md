@@ -73,6 +73,8 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/49250b34-b9a4-4265-b258-6e49b05a2957" />
 
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/e0560729-e578-4057-a4e8-58df75ab92dd" />
+
 ### Identified Important Brain Regions 
 
 <img width="1325" height="1187" alt="image" src="https://github.com/user-attachments/assets/93e180db-22d9-4f7f-a041-04d35881fadf" />
