@@ -69,6 +69,10 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="1560" height="1008" alt="image" src="https://github.com/user-attachments/assets/04775ab5-c1aa-4611-978d-1a337fd35567" />
 
+#### SHAP Importance
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/49250b34-b9a4-4265-b258-6e49b05a2957" />
+
 ### Identified Important Brain Regions 
 
 <img width="1325" height="1187" alt="image" src="https://github.com/user-attachments/assets/93e180db-22d9-4f7f-a041-04d35881fadf" />
