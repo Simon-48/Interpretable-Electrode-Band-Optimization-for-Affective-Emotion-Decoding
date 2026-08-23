@@ -52,12 +52,12 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 <img width="1724" height="912" alt="image" src="https://github.com/user-attachments/assets/b502f291-60d8-4d3a-b0bb-995cc5129790" />
 
-### DEAP Optimized Electrodes
+### DEAP Optimized Electrode-Band
 
-#### EEG Electrodes
+#### EEG Electrode-Band
 <img width="1620" height="859" alt="639936107-d0c33075-d3ce-469a-8943-a1182837c390" src="https://github.com/user-attachments/assets/04a5da65-680f-43a1-8ed9-a4a1deccbe0f" />
 
-#### Physiological Signals
+#### Physiological Signal-Band
 
 <img width="1735" height="906" alt="image" src="https://github.com/user-attachments/assets/d24612cf-3dd3-478e-bdb2-de8bd2bbe69b" />
 
