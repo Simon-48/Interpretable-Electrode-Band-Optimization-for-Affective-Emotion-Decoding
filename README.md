@@ -59,7 +59,7 @@ This study presents a comprehensive framework for EEG-based emotion recognition 
 
 #### Physiological Signals
 
-<img width="1542" height="874" alt="639936647-55a6ec2d-d71e-46d4-aaa2-503f72322907" src="https://github.com/user-attachments/assets/fdd5bde1-f19b-4ab5-8fd2-2c8ca6fa2780" />
+<img width="1735" height="906" alt="image" src="https://github.com/user-attachments/assets/d24612cf-3dd3-478e-bdb2-de8bd2bbe69b" />
 
 ### Optimized Electrodes (DEAP → SEED-V Mapping)
 
